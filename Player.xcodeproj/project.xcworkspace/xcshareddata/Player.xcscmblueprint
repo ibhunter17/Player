@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B13719C83FD71615B7BAC798112B45DB708931EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B13719C83FD71615B7BAC798112B45DB708931EB" : 9223372036854775807,
+    "FD4F27248C0EEDFA25963165D9EC3635FA1C380A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0937834C-94A8-4B91-95FB-97D65DD27855",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B13719C83FD71615B7BAC798112B45DB708931EB" : "iosdev\/",
+    "FD4F27248C0EEDFA25963165D9EC3635FA1C380A" : "..\/Documents\/dev\/dev2\/stagize"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Player",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Player\/Player.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ibhunter17\/iosdev.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B13719C83FD71615B7BAC798112B45DB708931EB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/optimus4me\/stagize.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD4F27248C0EEDFA25963165D9EC3635FA1C380A"
+    }
+  ]
+}
